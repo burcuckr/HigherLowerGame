@@ -6,6 +6,8 @@ The player must guess which person or brand has more social media followers.
 The game continues as long as the player gives correct answers.  
 When the player makes a wrong guess, the game ends and the final score is displayed.
 
+The project is part of the Udemy – 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu.
+-
 ---
 
 ## Features ✨
