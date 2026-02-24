@@ -1,4 +1,4 @@
-##Higher Lower Game 🎮
+## Higher Lower Game 🎮
 
 This project is a command-line version of the "Higher Lower" game written in Python.  
 The player must guess which person or brand has more social media followers.
@@ -8,7 +8,7 @@ When the player makes a wrong guess, the game ends and the final score is displa
 
 ---
 
-##Features ✨
+## Features ✨
 
 - Randomly selects two different entries from the dataset
 - Displays:
@@ -30,7 +30,7 @@ When the player makes a wrong guess, the game ends and the final score is displa
 
 ---
 
-##How It Works ▶️
+## How It Works ▶️
 
 1. Two random entries are selected from the dataset.
 2. The program ensures both selections are different.
